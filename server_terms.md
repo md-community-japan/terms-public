@@ -1,6 +1,6 @@
-<div style="text-align: center;" style="font-size: 200%;">
+<div style="text-align: center;" style="font-size: 200%">
 サーバーの利用に関する規約
-</div>
+</div>\
 
 
 本規約は、筋ジストロフィーコミュニティのDiscordサーバー（以下「本サーバー」といいます）を利用する際に適用されるルールを定めるものです。本サーバーを利用する方（以下「会員」といいます）は、本規約を遵守してください。
