@@ -1,4 +1,4 @@
-<div style="text-align: center;" style="font-size: 300%">
+<div style="text-align: center;" style="font-size: 200%;">
 サーバーの利用に関する規約
 </div>
 
