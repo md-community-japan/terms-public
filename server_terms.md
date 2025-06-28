@@ -1,5 +1,5 @@
-<div style="text-align: center;">
-# サーバーの利用に関する規約
+<div style="text-align: center;" style="font-size: 300%">
+サーバーの利用に関する規約
 </div>
 
 
